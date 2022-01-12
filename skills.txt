@@ -1,0 +1,6 @@
+terminal
+git
+python
+postman
+html
+SQL
